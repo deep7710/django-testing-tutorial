@@ -1,5 +1,5 @@
 from django.apps import AppConfig
-##jff
+##jee
 
 class PagesConfig(AppConfig):
     name = 'pages'
