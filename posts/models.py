@@ -1,6 +1,6 @@
 from django.db import models
 
-
+##test
 class Post(models.Model):
     text = models.TextField()
 
